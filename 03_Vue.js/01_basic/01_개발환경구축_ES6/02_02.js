@@ -8,6 +8,5 @@ function outer() {
     console.log(msg); // BLOCK
   }
 }
-console.log(msg);
 
 outer();
